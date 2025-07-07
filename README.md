@@ -1,2 +1,2 @@
 # JournalingApp
-Journaling Application to note your moodes
+Journaling Application to note your moods

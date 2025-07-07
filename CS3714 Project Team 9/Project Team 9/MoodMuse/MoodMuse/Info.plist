@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSFileProviderDomainUsageDescription</key>
+	<string>Save pdf to file</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>The app uses media library so you can add pictures and stuff</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.CS3714.moodmuse</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>moodmuse</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Uses Microphone so that users can record their voice in journals</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Users can take photos for to insert into journals</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Users can use faceID to sign into the app</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Users can upload pictures from their photolibrary into their journals</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Uses speech recognistion software so that users can make journal entries using their voice</string>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIImageName</key>
+		<string>LaunchImage</string>
+	</dict>
+</dict>
+</plist>
